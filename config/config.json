@@ -1,0 +1,17 @@
+{
+    "servers": [
+        {
+            "server_type": "",
+            "host": "",
+            "username": "",
+            "password": "",
+            "path": "",
+            "targets": [
+                {
+                    "api_url": "",
+                    "api_token": ""
+                }
+            ]
+        }
+    ]
+}
